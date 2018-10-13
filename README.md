@@ -11,19 +11,29 @@ However, the key advantage will be that, any kind of marketing campaign through 
 most genuine and natural; thanks to the way messages will be delivered (through a group of Brand Ambassadors). 
 
 
-## How It Works
+# How It Works
 Here is how Visibilitycs will work through its web portal:
-For Startups/Brands:
+
+# For Startups/Brands:
 1. Submit web link to the campaign where they want their target audience to reach (event, meeting, workshop, training, etc.) along with the details of the campaign and the company
 2. Specify their targeted number of views for the campaign
 3. Specify their targeted timeframe for the campaign
 4. Set the Campaign Fund (fee) they are ready to pay for the campaign
 Once a startup makes a payment, the money will be stored on the Ethreum distributed network.
 
-## Users:
+## For Users:
 1. View all marketing campaigns (submitted by various startups)
 2. Select ones that are of interest to them (based on the company, campaign type, target views, campaign fund, etc.)
 3. Get a unique URL for the selected campaign
 4. Share the campaign link on their social media platform as a Brand Ambassador
 5. Get paid according to the number of views they are able to bring in to the campaign once the target views are achieved within the stipulated timeframe
 Once the targeted views are met within the stipulated timeframe, the campaign fund will be automatically shared by the platform with all the campaign ambassadors as per the views each person was able to generate. However, in case the targeted views were not met within the stipulated timeframe, the money will be automatically refunded to the company.
+
+
+# Instructions to run:
+This prototype interfaces with the ethereum blockchain network using the Metamaks chrome extention. For demo purpose, I am running htis blochain locally. But with very few changes, this program can be ported to work on the Ethereum's "Main Network".
+Follow these steps to successfully run this program in your system, without spending actuall ethereums.
+1) Install Ganache to get a handfull of test accounts with fake ethereums in each account.
+2) Install Metamask and configure to connect to the RPC Server provided by Ganache.
+3) Modify the web3.js object to connect to your RPC server.
+1) Install ganache
