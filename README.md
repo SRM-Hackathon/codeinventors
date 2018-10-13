@@ -1,5 +1,5 @@
 # About
-Visibilitycs (PoC for the HRM Hackathon) will be a startup founded with a vision to help today's businesses transform the way they engage with their prospects and customers on their everyday social media. It helps them manage their social media marketing campaigns reach their target audience in the most effective manner.
+Visibilitycs (PoC for the SRM Hackathon) will be a startup founded with a vision to help today's businesses transform the way they engage with their prospects and customers on their everyday social media. It helps them manage their social media marketing campaigns reach their target audience in the most effective manner.
 
 With Visibilitycs, the companies will enjoy the right to decide on the following aspects of their campaigns:
 1. Targeted reach (in terms of the number of views)
