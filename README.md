@@ -7,6 +7,7 @@ With Visibilitycs, the companies will enjoy the right to decide on the following
 3. Campaign Fund (Fee)
 4. The right for release of the campaign fund only after the targeted reach is met
 5. The right for refund of the campaign fee if the targeted reach is not met
+
 However, the key advantage will be that, any kind of marketing campaign through Visibilitycs will look
 most genuine and natural; thanks to the way messages will be delivered (through a group of Brand Ambassadors). 
 
