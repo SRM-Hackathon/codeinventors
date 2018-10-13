@@ -36,6 +36,6 @@ Once the targeted views are met within the stipulated timeframe, the campaign fu
 ## Instructions to run:
 This prototype interfaces with the ethereum blockchain network using the Metamaks chrome extention. For demo purpose, I am running htis blochain locally. But with very few changes, this program can be ported to work on the Ethereum's "Main Network".
 Follow these steps to successfully run this program in your system, without spending actuall ethereums.
-1) Install Ganache to get a handfull of test accounts with fake ethereums in each account.
+1) Install Ganache to get a handfull of test accounts with fake ethers in each account.
 2) Install Metamask and configure to connect to the RPC Server provided by Ganache.
 3) Modify the web3.js object to connect to your RPC server.
