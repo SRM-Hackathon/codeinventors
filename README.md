@@ -20,6 +20,7 @@ Here is how Visibilitycs will work through its web portal:
 2. Specify their targeted number of views for the campaign
 3. Specify their targeted timeframe for the campaign
 4. Set the Campaign Fund (fee) they are ready to pay for the campaign
+
 Once a startup makes a payment, the money will be stored on the Ethreum distributed network.
 
 ### For Users:
@@ -28,6 +29,7 @@ Once a startup makes a payment, the money will be stored on the Ethreum distribu
 3. Get a unique URL for the selected campaign
 4. Share the campaign link on their social media platform as a Brand Ambassador
 5. Get paid according to the number of views they are able to bring in to the campaign once the target views are achieved within the stipulated timeframe
+
 Once the targeted views are met within the stipulated timeframe, the campaign fund will be automatically shared by the platform with all the campaign ambassadors as per the views each person was able to generate. However, in case the targeted views were not met within the stipulated timeframe, the money will be automatically refunded to the company.
 
 
@@ -37,4 +39,3 @@ Follow these steps to successfully run this program in your system, without spen
 1) Install Ganache to get a handfull of test accounts with fake ethereums in each account.
 2) Install Metamask and configure to connect to the RPC Server provided by Ganache.
 3) Modify the web3.js object to connect to your RPC server.
-1) Install ganache
